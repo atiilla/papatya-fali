@@ -67,6 +67,7 @@ body {
 .daisy .petal {
     position: absolute;
     left: 50%;
+    text-align: center;
     bottom: 230px;
     transform-origin: -40px 20px;
     width: 80px;
